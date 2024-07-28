@@ -12,7 +12,7 @@ First, you need to install the required dependencies (Requires Python 3 or highe
 
 Next, get into the directory of the tool, if it's in your downloads, you'd do ```cd C:\Users\<user>\Downloads```, or ```cd /users/<user>/downloads``` if you're on macOS.
 
-In order to run it, just type python screenshotwebhook.py or python3 screenshotwebhook.py
+In order to run it, just type ```python screenshot_webhook.py``` or python3 ```screenshot_webhook.py```
 
 Now, every 1-10 minutes, a screenshot of your desktop will appear in the channel you made the Webhook with.
 
