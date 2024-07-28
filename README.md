@@ -1,17 +1,17 @@
 # randomscreenshottool
 A multi-platform tool that takes a screenshot of your screen, and sends it to a Discord Webhook. (Personal use only)
 
-This program was entirely made by ChatGPT.
-
 # IMPORTANT
 Use an IDE and edit the file, replace the place where the Webhook URL goes, with your own URL, if you don't know how to make a Discord Webhook, read this article: https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 
 # Installation
 Open up a Command Prompt or Terminal window
 First, you need to install the required dependencies (Requires Python 3 or higher)
+
 ```pip install pyautogui pillow requests```
 
-Next, get into the directory of the tool, if it's in your downloads, you'd do ```cd C:\Users\<user>\Downloads```, or ```cd /users/<user>/downloads``` if you're on macOS
+Next, get into the directory of the tool, if it's in your downloads, you'd do ```cd C:\Users\<user>\Downloads```, or ```cd /users/<user>/downloads``` if you're on macOS.
+
 In order to run it, just type python screenshotwebhook.py or python3 screenshotwebhook.py
 
 Now, every 1-10 minutes, a screenshot of your desktop will appear in the channel you made the Webhook with.
