@@ -17,7 +17,3 @@ In order to run it, just type python screenshotwebhook.py or python3 screenshotw
 Now, every 1-10 minutes, a screenshot of your desktop will appear in the channel you made the Webhook with.
 
 If you have any ways of optimizing, improving, or adding additional features to this script, just add a commit. I have literally no idea how this code works, because it was made entirely with ChatGPT.
-
-
-
-
