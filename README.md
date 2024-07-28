@@ -4,12 +4,14 @@ A multi-platform tool that takes a screenshot of your screen, and sends it to a 
 # IMPORTANT
 Use an IDE and edit the file, replace the place where the Webhook URL goes, with your own URL, if you don't know how to make a Discord Webhook, read this article: https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 
+Python 3 or higher is required, download Python from https://www.python.org/downloads/release/python-3124/
+
+Make sure that pip is updated, ensure this by typing ```pip install --upgrade pip``` into your Command Prompt/Terminal
+
 # Installation
 Unzip the program
 
 Open up a Command Prompt or Terminal window
-
-Python 3 or higher is required, download Python from https://www.python.org/downloads/release/python-3124/
 
 Install the required dependencies
 
