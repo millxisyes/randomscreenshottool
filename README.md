@@ -7,7 +7,8 @@ Use an IDE and edit the file, replace the place where the Webhook URL goes, with
 # Installation
 Unzip the program
 Open up a Command Prompt or Terminal window
-First, you need to install the required dependencies (Requires Python 3 or higher)
+Python 3 or higher is required, download Python from https://www.python.org/downloads/release/python-3124/
+Install the required dependencies
 
 ```pip install pyautogui pillow requests```
 
