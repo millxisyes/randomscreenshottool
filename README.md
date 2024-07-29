@@ -1,6 +1,8 @@
 # randomscreenshottool
 A multi-platform tool that takes a screenshot of your screen, and sends it to a Discord Webhook. (Personal use only)
 
+By using this software, you agree to not use it for malicious reasons. This program was solely made, just so you could see what you were doing on a specific day.
+
 # IMPORTANT
 Use an IDE and edit the file, replace the place where the Webhook URL goes, with your own URL, if you don't know how to make a Discord Webhook, read this article: https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 
