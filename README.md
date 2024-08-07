@@ -17,7 +17,7 @@ Open up a Command Prompt or Terminal window
 
 Install the required dependencies
 
-```pip install pyautogui pillow requests```
+```pip install pyautogui pillow requests flask```
 
 Next, get into the directory of the tool, if it's in your downloads, you'd do ```cd C:\Users\<user>\Downloads```, or ```cd /users/<user>/downloads``` if you're on macOS.
 
@@ -28,9 +28,12 @@ Now, every 1-10 minutes, a screenshot of your screen will appear in the channel 
 
 
 
-# The only semi-cool feature this program has
+# Features
 
 - Configurable Intervals
+- Log File Rotation
+- Dynamic Interval
+- Status Logging
 
 Just open the file using an IDE, and configure the amount of seconds on line 11, and line 12.
 
