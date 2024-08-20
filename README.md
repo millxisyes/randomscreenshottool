@@ -39,9 +39,7 @@ Now, every 1-10 minutes, a screenshot of your screen will appear in the channel 
 - Timestamp toggles
 - Extremely easy to run
 - Supports Windows, macOS and Linux
-
-Just open the file using an IDE, and configure the amount of seconds on line 11, and line 12.
-
+- 
 Enjoy!
 
 
