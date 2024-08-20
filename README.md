@@ -8,6 +8,8 @@ Use an IDE and edit the file, replace the place where the Webhook URL goes, with
 
 Python 3 or higher is required, download Python from https://www.python.org/downloads/release/python-3124/
 
+Ensure that in the installer, you add it to path.
+
 Make sure that pip is updated, ensure this by typing ```pip install --upgrade pip``` into your Command Prompt/Terminal
 
 # Installation
@@ -17,7 +19,9 @@ Open up a Command Prompt or Terminal window
 
 Install the required dependencies
 
-```pip install pyautogui pillow requests flask```
+```pip install Pillow requests logging tkinter pystray```
+
+If you encounter any issues running that command, individually install each dependancy.
 
 Next, get into the directory of the tool, if it's in your downloads, you'd do ```cd C:\Users\<user>\Downloads```, or ```cd /users/<user>/downloads``` if you're on macOS.
 
@@ -30,10 +34,11 @@ Now, every 1-10 minutes, a screenshot of your screen will appear in the channel 
 
 # Features
 
-- Configurable Intervals
-- Log File Rotation
-- Dynamic Interval
-- Status Logging
+- Exit to tray
+- Interchangable intervals
+- Timestamp toggles
+- Extremely easy to run
+- Supports Windows, macOS and Linux
 
 Just open the file using an IDE, and configure the amount of seconds on line 11, and line 12.
 
