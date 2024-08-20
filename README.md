@@ -27,7 +27,7 @@ Next, get into the directory of the tool, if it's in your downloads, you'd do ``
 
 In order to run it, just type ```python screenshot_webhook.py``` or ```python3 screenshot_webhook.py```
 
-Now, every 1-10 minutes, a screenshot of your screen will appear in the channel you made the Webhook with.
+Now, every 1-10 minutes (or a interval you chose), a screenshot of your screen will appear in the channel you made the Webhook with.
 
 
 
