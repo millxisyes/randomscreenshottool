@@ -1,5 +1,5 @@
 # randomscreenshottool
-A multi-platform tool that takes a screenshot of your screen, and sends it to a Discord Webhook. (Personal use only)
+A multi-platform tool that takes a screenshot of your screen and sends it to a Discord Webhook. (Personal use only)
 
 By using this software, you agree to not use it for malicious reasons. This program was solely made so you could see what you were doing on a specific day.
 
