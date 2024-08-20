@@ -23,7 +23,7 @@ Install the required dependencies
 
 If you encounter any issues running that command, individually install each dependancy.
 
-Next, get into the directory of the tool, if it's in your downloads, you'd do ```cd C:\Users\<user>\Downloads```, or ```cd /users/<user>/downloads``` if you're on macOS.
+Next, get into the directory of the tool, if it's in your downloads, you'd do ```cd downloads```, or ```cd /users/<user>/downloads``` if you're on macOS.
 
 In order to run it, just type ```python screenshot_webhook.py``` or ```python3 screenshot_webhook.py```
 
