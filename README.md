@@ -13,7 +13,7 @@ Ensure that in the installer, you add it to path.
 Make sure that pip is updated, ensure this by typing ```pip install --upgrade pip``` into your Command Prompt/Terminal
 
 # Installation
-Unzip the program
+Unzip the program (if it's in an archive, if not skip to the next step)
 
 Open up a Command Prompt or Terminal window
 
