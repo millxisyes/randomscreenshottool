@@ -19,7 +19,7 @@ Open up a Command Prompt or Terminal window
 
 Install the required dependencies
 
-```pip install Pillow requests logging tkinter pystray```
+```pip install Pillow requests logging pystray```
 
 If you encounter any issues running that command, individually install each dependancy.
 
